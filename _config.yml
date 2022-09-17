@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karsen Wahal's Personal Website"
+title                    : "Karsen Wahal"
 title_separator          : "-"
 name                     : &name "Karsen Wahal"
 description              : &description "Student at Stanford University"
