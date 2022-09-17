@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Karsen, a sophomore at Stanford University, studying economics and MCS, an interdisciplinary combination of math, computer science, and statistics. I’m interested in leveraging quantitative skills to increase the efficiency of government policy and operations, with a specific passion for poverty and institutions.
+Hi! I’m Karsen, a sophomore at Stanford University, studying economics and MCS (Mathematical and Computational Science), an interdisciplinary combination of math, computer science, and statistics. I’m interested in leveraging quantitative skills to increase the efficiency of government policy and operations, with a specific passion for poverty and institutions.
 
-Currently, I’m co-authoring a game theory paper on ranked-choice voting with Professor Avidit Acharya. I’m also working with GSB Professor Joshua Rauh and End Poverty in California, a nonprofit founded by Michael Tubbs. Previously, I worked for U.S. Senator Jeff Merkley, California State Senator Josh Becker, and the Millennium Challenge Corporation, a federal aid agency. I founded and continue to manage The Polling Place, a nonprofit with over 300 applicants and 320,000 page views, that provides information on local candidates running for office. 
+Currently, I’m co-authoring a game theory paper on ranked-choice voting with Professor [Avidit Acharya](https://www.aviditacharya.com/home). I’m also working for Stanford GSB Professor Joshua Rauh and End Poverty in California, a nonprofit founded by Michael Tubbs. Previously, I worked for U.S. Senator Jeff Merkley, California State Senator Josh Becker, and the Millennium Challenge Corporation, a federal aid agency. I founded and continue to manage The Polling Place, a nonprofit with over 300 applicants and 320,000 page views, that provides information on local candidates running for office. 
 
 On campus, I’m Stanford’s youngest Cardinal Service Peer Advisor, where I help spearhead efforts to support public service. I’m the managing editor of the Stanford Economic Review, a leading undergraduate economics journal. I’m also the Director of National Fellowships for Stanford in Government, where I organize 13 fully-funded national public service internships, and I’m a contributing writer for the Stanford Daily. 
 
