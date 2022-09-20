@@ -4,7 +4,7 @@ title: "Education"
 author_profile: true
 ---
 
-### Stanford University (Expected Graduation: June 2025)
+## Stanford University (Expected Graduation: June 2025)
 - B.A., Economics
 - B.S., Mathematical and Computational Science (MCS)
 - Minor in Poverty, Inequality, and Policy
@@ -16,7 +16,7 @@ author_profile: true
   - [BEAM Fellow](https://careered.stanford.edu/jobs-internships/get-funded-unpaid-internships) (1 of 17 students selected to receive funding for an unpaid internship)
   - [Cardinal Quarter Fellow](https://cardinalservice.stanford.edu/opportunities/haas-center-cardinal-quarter-fellowship-summer-2022) (received funding to complete a summer public service internship)
 
-### BASIS Scottsdale High School (Class of 2021)
+## BASIS Scottsdale High School (Class of 2021)
 - High Honors Capstone Diploma
 - GPA: 4.0 (Unweighted), 4.86 (Weighted)
 - **Awards**:
