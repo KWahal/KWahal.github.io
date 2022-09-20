@@ -3,6 +3,9 @@ main:
   - title: "Experience"
     url: /experience/
 
+  - title: "Education"
+     url: /education/  
+     
   - title: "CV"
     url: /files/Karsen%20Lee%20Wahal%20Resume%20(PDF).pdf  
 
