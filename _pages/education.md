@@ -5,9 +5,7 @@ author_profile: true
 ---
 
 ### Stanford University (Expected Graduation: June 2025)
-- B.A., Economics
-- B.S., Mathematical and Computational Science (MCS)
-- Minor, Poverty, Inequality, and Policy
+- B.A., Economics; B.S., Mathematical and Computational Science (MCS); Minor, Poverty, Inequality, and Policy
 - GPA: 4.054/4.0
 - Economics coursework: Intermediate Microeconomics; Intermediate Macroeconomics; Price Theory; Applied Econometrics; Statistics (Postcalculus); Decision Modeling and Information
 - MCS coursework: Linear Algebra and Multivariable Calculus; Applied Matrix Theory; Programming Methodology; Programming Abstractions; Mathematical Foundations of Computing; Design and Analysis of Algorithms
