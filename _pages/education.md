@@ -14,7 +14,7 @@ author_profile: true
 - Other relevant coursework: Democracy, Development, and the Rule of Law; Political Analysis for Public Policymakers; Rhetoric of Disability; Globally Queer; America at a Crossroads
 - Awards: 
   - BEAM Fellow (1 of 17 students selected to receive funding for an unpaid internship)
-  - Cardinal Quarter Fellow (Received funding to complete a summer public service internship)
+  - Cardinal Quarter Fellow (received funding to complete a summer public service internship)
 
 ### BASIS Scottsdale High School (Class of 2021)
 - High Honors Capstone Diploma
