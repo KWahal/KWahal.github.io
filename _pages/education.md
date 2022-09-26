@@ -10,7 +10,7 @@ author_profile: true
 - **Minor** in Poverty, Inequality, and Policy
 - **GPA**: 4.054/4.0
 - **Economics coursework**: Intermediate Microeconomics; Intermediate Macroeconomics; Price Theory; Applied Econometrics; Statistics (Postcalculus); Decision Modeling and Information
-- **MCS coursework**: Linear Algebra and Multivariable Calculus; Applied Matrix Theory; Programming Methodology; Programming Abstractions; Mathematical Foundations of Computing; Design and Analysis of Algorithms
+- **MCS coursework**: Linear Algebra and Multivariable Calculus; Applied Matrix Theory; Integral Calculus of Several Variables; Programming Methodology; Programming Abstractions; Machine Learning
 - **Other relevant coursework**:  Democracy, Development, and the Rule of Law; Political Analysis for Public Policymakers; Rhetoric of Disability; Globally Queer; America at a Crossroads
 - **Awards**: 
   - [BEAM Fellow](https://careered.stanford.edu/jobs-internships/get-funded-unpaid-internships) (1 of 17 students selected to receive funding for an unpaid internship)
