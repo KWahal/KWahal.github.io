@@ -7,7 +7,6 @@ author_profile: true
 ## Stanford University (Expected Graduation: June 2025)
 - **B.A.**, Economics
 - **B.S.**, Mathematical and Computational Science (MCS)
-- **Minor** in Poverty, Inequality, and Policy
 - **GPA**: 4.081/4.0
 - **Economics coursework**: 
   - Core coursework: Statistics (Postcalculus); Applied Econometrics; Price Theory; Intermediate Microeconomics; Intermediate Macroeconomics
