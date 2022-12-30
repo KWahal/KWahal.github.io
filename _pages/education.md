@@ -9,9 +9,13 @@ author_profile: true
 - **B.S.**, Mathematical and Computational Science (MCS)
 - **Minor** in Poverty, Inequality, and Policy
 - **GPA**: 4.081/4.0
-- **Economics coursework**: Intermediate Microeconomics; Intermediate Macroeconomics; Price Theory; Applied Econometrics; Statistics (Postcalculus); Decision Modeling and Information
-- **MCS coursework**: Linear Algebra and Multivariable Calculus; Applied Matrix Theory; Integral Calculus of Several Variables; Programming Methodology; Programming Abstractions; Artificial Intelligence: Principles and Techniques
-- **Other relevant coursework**:  Democracy, Development, and the Rule of Law; Political Analysis for Public Policymakers; Rhetoric of Disability; Globally Queer; America at a Crossroads
+- **Economics coursework**: 
+  - Core coursework: Statistics (Postcalculus); Applied Econometrics; Price Theory; Intermediate Microeconomics; Intermediate Macroeconomics
+  - Elective coursework: Decision Modeling and Information; Economics of Education
+- **MCS coursework**: 
+  - Core coursework: Linear Algebra and Multivariable Calculus; Applied Matrix Theory; Integral Calculus of Several Variables; Programming Methodology; Programming Abstractions
+  - AI coursework: Artificial Intelligence: Principles and Techniques (graduate-level); Statistical Inference (graduate-level); Natural Language Processing with Deep Learning (graduate-level)
+- **Other relevant coursework**:  Political Analysis for Public Policymakers (graduate-level); Democracy, Development, and the Rule of Law; Rhetoric of Disability; Globally Queer; America at a Crossroads
 - **Awards**: 
   - [Impact Fellow](https://www.impactlabs.io/fellowship) (selected to participate in a 2-week gathering in NYC for computer science students who hope to use their skills to create lasting social change; unable to attend for unrelated reasons)
   - [BEAM Fellow](https://careered.stanford.edu/jobs-internships/get-funded-unpaid-internships) (1 of 17 students selected to receive funding for an unpaid internship)
