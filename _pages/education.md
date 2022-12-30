@@ -17,7 +17,7 @@ author_profile: true
 - **Other relevant coursework**:  Political Analysis for Public Policymakers (graduate-level); Democracy, Development, and the Rule of Law; Rhetoric of Disability; Globally Queer; America at a Crossroads
 - **Awards**: 
   - [Impact Fellow](https://www.impactlabs.io/fellowship) (selected to participate in a 2-week gathering in NYC for computer science students who hope to use their skills to create lasting social change; unable to attend for unrelated reasons)
-  - [BEAM Fellow](https://careered.stanford.edu/jobs-internships/get-funded-unpaid-internships) (1 of 17 students selected to receive funding for an unpaid internship)
+  - [BEAM/Career-Ed Fellow](https://careered.stanford.edu/jobs-internships/get-funded-unpaid-internships) (selected to receive funding for an unpaid internship (2x))
   - [Cardinal Quarter Fellow](https://cardinalservice.stanford.edu/opportunities/haas-center-cardinal-quarter-fellowship-summer-2022) (received funding to complete a summer public service internship)
 
 ## BASIS Scottsdale High School (Class of 2021)
