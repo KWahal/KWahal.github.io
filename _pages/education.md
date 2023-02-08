@@ -7,7 +7,7 @@ author_profile: true
 ## Stanford University (Expected Graduation: June 2025)
 - **GPA**: 4.081/4.0
 - **B.A.**, Economics; Advisor: [Pete Klenow](http://klenow.com/)
-- **B.S.**, Mathematical and Computational Science (MCS); [Advisor: John Duchi](https://web.stanford.edu/~jduchi/)
+- **B.S.**, Mathematical and Computational Science (MCS); Advisor: [John Duchi](https://web.stanford.edu/~jduchi/)
 - **Economics coursework**: 
   - Probability & Statistics, Applied Econometrics, Price Theory, Intermediate Microeconomics, Intermediate Macroeconomics, Decision Modeling & Information, Economics of Education
 - **MCS coursework**: 
