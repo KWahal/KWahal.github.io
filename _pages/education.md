@@ -9,10 +9,10 @@ author_profile: true
 - **B.A.**, Economics; Advisor: [Pete Klenow](http://klenow.com/)
 - **B.S.**, Mathematical and Computational Science (MCS); Advisor: [John Duchi](https://web.stanford.edu/~jduchi/)
 - **Economics coursework**: 
-  - Probability & Statistics, Applied Econometrics, Price Theory, Intermediate Microeconomics, Intermediate Macroeconomics, Decision Modeling & Information, Economics of Education
-- **MCS coursework**: 
-  - MATH/STATS: Linear Algebra & Multivariable Calculus, Integral Calculus of Several Variables, Applied Matrix Theory, Statistical Inference (grad-level)
-  - CS: Programming Methodology, Programming Abstractions, Mathematical Foundations of Computing, Artificial Intelligence: Principles & Techniques (grad-level), Natural Language Processing with Deep Learning (grad-level)
+  -  Probability & Econometrics I, II, and III, Microeconomics I and II, Macroeconomics, Decision Modeling & Information, Economics of Education, Market Design
+- **MCS coursework** (* denotes grad-level course): 
+  - MATH/STATS: Statistical Inference*, Linear Algebra & Multivariable Calculus, Integral Calculus of Several Variables, Applied Matrix Theory
+  - CS: Machine Learning*, Natural Language Processing with Deep Learning*, AI: Principles & Techniques*, Mathematical Foundations of Computing, Design and Analysis of Algorithms, Programming Abstractions
 - **Awards**: 
   - [Impact Fellow](https://www.impactlabs.io/fellowship) (selected to participate in a 2-week gathering in NYC for computer science students who hope to use their skills to create lasting social change; unable to attend for unrelated reasons)
 
