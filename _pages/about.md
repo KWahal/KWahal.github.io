@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Karsen, and I care deeply about tackling big questions in policy and economics. I am particularly interested in the economics of AI.
 
-I currently split my time between:
+I currently spend my time:
 - Designing markets under Nobel Laureate [Paul Milgrom](https://milgrom.people.stanford.edu/) at [Auctionomics](https://www.axios.com/2024/10/07/auction-market-design-auctionomics-emmy), including a [market for compute](https://www.bloomberg.com/news/articles/2025-09-26/the-ai-boom-needs-a-market-for-compute-just-like-oil-and-spectrum).
 - Researching the economics of AI under Professor [Neale Mahoney](https://nmahoney.people.stanford.edu/).
 
