@@ -12,7 +12,7 @@ Hi! I'm Karsen, and I care deeply about tackling big questions in policy and eco
 
 I currently spend my time:
 - Designing markets under Nobel Laureate [Paul Milgrom](https://milgrom.people.stanford.edu/) at [Auctionomics](https://www.axios.com/2024/10/07/auction-market-design-auctionomics-emmy), including a [market for compute](https://www.bloomberg.com/news/articles/2025-09-26/the-ai-boom-needs-a-market-for-compute-just-like-oil-and-spectrum).
-- Researching the economics of AI under Professor [Neale Mahoney](https://nmahoney.people.stanford.edu/).
+- Researching the economics of AI with Professor [Neale Mahoney](https://nmahoney.people.stanford.edu/).
 
 I recently graduated from Stanford with a B.A. with Honors in Economics, B.S. in Mathematics, and M.S. in Computer Science (with a specialization in AI), where I was fortunate to be advised by Professors [Nicholas Bloom](https://nbloom.people.stanford.edu/) and [Pete Klenow](http://www.klenow.com/).
 
